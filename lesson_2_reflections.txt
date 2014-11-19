@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	git init to creat reposatroy to save all your commands (git add)
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	You can add different things to a staging area before you commit to Git. You can chose which files goe together in one Git and which shouldn't be togetgher in one Git
